@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @manzzolla
 - 👀 I’m interested in learning more about the world of technology.
 - 🌱 I’m currently learning linux, docker and programming
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me manzzolla@gmail.com / 11992854249
 
 <!---
