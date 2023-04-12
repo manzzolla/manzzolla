@@ -27,7 +27,7 @@ Pt-br
 - 🌱 Atualmente estou aprendendo linux, docker, programação e ciência de dados
 - 📫 Como me contatar manzzolla@gmail.com / 11992854249
 
-##Sobre
+Sobre
 - Sou Edison Manzzolla Junior, tenho 31 anos e sou natural de São Paulo, Zona Oeste!
 
 Sou formado pelo SENAC em TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO.
