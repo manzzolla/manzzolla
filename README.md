@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @manzzolla
 - 👀 I am an eternal technology learner, passionate about studying and getting to know new tools.
 - 🌱 I’m currently learning linux, docker, programming and data science
-- 📫 How to reach me manzzolla@gmail.com / 11992854249
+- 📫 How to reach me manzzolla@gmail.com / 11939367152
 
 - I'm Edison Manzzolla Junior, I'm 31 years old and I'm from São Paulo, West Zone!
 
@@ -26,7 +26,7 @@ Pt-br
 - 👋 Olá, Eu sou @manzzolla
 - 👀 Sou eterno aprendiz de tecnologia, apaixonado por estudar e conhecer novas ferramentas.
 - 🌱 Atualmente estou aprendendo linux, docker, programação e ciência de dados
-- 📫 Como me contatar manzzolla@gmail.com / 11992854249
+- 📫 Como me contatar manzzolla@gmail.com / 11939367152
 
 Sobre
 - Sou Edison Manzzolla Junior, tenho 31 anos e sou natural de São Paulo, Zona Oeste!
